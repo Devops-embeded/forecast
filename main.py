@@ -2,7 +2,7 @@ import requests
 import datetime
 
 # Votre clé API Wunderground (remplacez par votre propre clé)
-API_KEY = "56cd9f6adae046a58d9f6adae0d6a5d2"
+API_KEY = ""
 # Coordonnées des lieux
 LOCATIONS = {
     "Toulouse": {"lat": 43.6045, "lon": 1.444},
